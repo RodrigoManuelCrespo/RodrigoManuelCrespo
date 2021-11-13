@@ -2,7 +2,7 @@
 
 - Soy estudiante de Analista en Sistemas.
 - Disfruto hacer proyectos de desarrollo web.    
-- Me encuentro en la busqueda mi primer empleo en el rubro IT.
+- Me encuentro en la busqueda de mi primer empleo en el rubro IT.
 
 
 ## Tecnologias:
