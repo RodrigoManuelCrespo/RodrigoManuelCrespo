@@ -2,7 +2,6 @@
 
 - Soy estudiante de Analista en Sistemas.
 - Disfruto hacer proyectos de desarrollo web.    
-- Me encuentro en la busqueda de mi primer empleo en el rubro IT.
 
 
 ## Tecnologias:
@@ -21,7 +20,7 @@
 
 ## Contacto 📫
  
- Gmail: cresporodrigomanuel@gmail.com 
+ Correo: cresporodrigomanuel@gmail.com 
  
  Telefono: 3413 385262 
  
