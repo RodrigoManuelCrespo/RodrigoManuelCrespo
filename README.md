@@ -10,9 +10,7 @@ Soy estudiante de Analista en Sistemas. Me especializo en el desarrollo front-en
 ## Contacto 📫
  
  Correo: cresporodrigomanuel@gmail.com 
- 
- Telefono: 3413 385262 
- 
+  
  LinkedIn: https://www.linkedin.com/in/rodrigomanuelcrespo/
 
 </details>
