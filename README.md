@@ -1,6 +1,6 @@
 ### Hola, soy Rodrigo!
 
-Soy estudiante de Analista en Sistemas. Me especializo en el desarrollo front-end de aplicaciones web y mobile.    
+Desarrollador frontend web y mobile con sólidos conocimientos en UI/UX. Apasionado por crear experiencias digitales intuitivas y atractivas. Resolutivo y colaborador, comprometido con el trabajo en equipo para alcanzar resultados óptimos.
 
 ## Tecnologias:
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/ionic-team/ionic-framework/main/.github/assets/logo.png" />
